@@ -98,3 +98,11 @@ Video Walkthrough: (add link here)
 - CRM integration
 - Multi-language support
 - Fine-tuned sentiment classification model
+ 
+## Live Automation Demo
+
+You can view and interact with the live Make.com scenario here:
+
+Public Make Scenario:  
+https://eu1.make.com/public/shared-scenario/NsZFnu6rhKM/integration-google-sheets
+
