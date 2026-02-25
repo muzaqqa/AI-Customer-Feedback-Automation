@@ -29,7 +29,7 @@ The workflow balances automation efficiency with risk control.
 
  ## Workflow Architecture
 
-![Workflow](architecture/make-workflow.png)
+<img src="architecture/make-workflow.png" width="100%" />
 
 ---
 
